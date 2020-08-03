@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Echo": {
+      "commandName": "Project",
+      "commandLineArgs": "--help"
+    }
+  }
+}

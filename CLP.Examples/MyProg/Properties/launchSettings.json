@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "MyProg": {
+      "commandName": "Project",
+      "commandLineArgs": "--help"
+    }
+  }
+}
